@@ -14,14 +14,14 @@ Self-normalizing feed-forward regression network (adapted from a Wolfram referen
 ## Results
 | Model | Accuracy |
 |---|---|
-| Baseline (`[your baseline]`) | `[x]%` |
+| Baseline  | 51% |
 | Regression net | 54.0% |
 | Classification net | 51.5% |
 
 Sampling error is about ±1.1% on the test set.
 
 ## Limitations
-Single random split; `[chronological-split result if you run it]`.
+Single random split; 
 
 ## Files
 - `NFLProjectFeb12.nb`: the notebook
